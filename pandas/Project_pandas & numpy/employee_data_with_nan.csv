@@ -1,0 +1,11 @@
+Emp_ID,Name,Age,Salary (INR),Experience (Years),City,Department,Performance Rating
+101,Amit Sharma,27.0,650000.0,4.0,Delhi,IT,4.5
+102,Riya Gupta,32.0,,8.0,Mumbai,HR,3.8
+103,Rajesh Verma,45.0,1200000.0,,Bangalore,Finance,4.9
+104,Priya Singh,29.0,750000.0,6.0,Kolkata,IT,4.2
+105,Sunil Kumar,,600000.0,3.0,Chennai,Sales,
+106,Alok Mehta,51.0,,28.0,Hyderabad,Operations,5.0
+107,Kavita Yadav,32.0,900000.0,-5.0,Pune,IT,4.0
+108,Pankaj Mishra,24.0,450000.0,10.0,Jaipur,Marketing,3.5
+109,Deepika Reddy,28.0,720000.0,2.0,Bangalore,Management,
+110,Ramesh Patil,-30.0,800000.0,30.0,Kolkata,,4.3
